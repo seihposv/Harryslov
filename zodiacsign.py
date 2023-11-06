@@ -40,4 +40,4 @@ if zodiac_sign:
     print("Ваш знак зодиака:", zodiac_sign)
     print("Качества этого знака:", zodiac_qualities[zodiac_sign])
 else:
-    print("Не удалось определить знак зодиака.")
+    print("Не удалось определить знак зодиака, sorry.")
